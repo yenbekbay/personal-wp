@@ -1,4 +1,4 @@
-# yenbekbay.kz
+# yenbekbay.kz [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yenbekbay/personal-wp/master/LICENSE)
 
 A Wordpress theme for my old personal website.
 

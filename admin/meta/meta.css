@@ -1,0 +1,35 @@
+.ay-metabox-table th {
+    width: 25%;
+}
+.ay-metabox-table label span {
+    color: #999999;
+    display: block;
+    line-height: 20px;
+    margin: 5px 0 0;
+}
+.ay-metabox-table input, .ay-metabox-table textarea {
+    float: left;
+    width: 50%;
+}
+.ay-metabox-table input[type=checkbox] {
+	width: 20px;
+}
+.ay-metabox-table input.file {
+    width: 85%;
+}.ay-metabox-table input.button {
+    margin-right: 0;
+    width: auto;
+}
+.ay-metabox-table input.radio {
+    float: none;
+    margin-right: 3px;
+    width: auto;
+}
+.ay-metabox-table .radio-label {
+    margin-right: 10px;
+}
+.ay-metabox-table img {
+	width: 50%;
+	display: block;
+	margin-bottom: 10px;
+}

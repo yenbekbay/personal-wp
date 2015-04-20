@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yenbekbay 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-07 21:42-0600\n"
+"PO-Revision-Date: 2014-10-07 21:42-0600\n"
+"Last-Translator: Ayan Yenbekbay <ayan.yenb@gmail.com>\n"
+"Language-Team: Ayan Yenbekbay <ayan@yenbekbay.kz>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: ../404.php:19
+msgid "404! Oh no!"
+msgstr "О нет! 404!"
+
+#: ../404.php:22
+msgid "Sorry, but nothing exists here."
+msgstr ""
+"К сожалению, страница, которую вы запросили, отсутствует на моем сайте."
+
+#: ../404.php:23
+msgid "Shall we return to home?"
+msgstr "Вернемся на главную?"
+
+#: ../content.php:15
+msgid "Read more &raquo;"
+msgstr "Дочитать &raquo;"
+
+#: ../functions.php:18
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: ../functions.php:269
+msgid "Attachments"
+msgstr "Прикреплено"
+
+#: ../functions.php:418 ../functions.php:421 ../functions.php:570
+#: ../functions.php:572
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../functions.php:419 ../functions.php:430 ../search.php:42
+msgid "Project"
+msgstr "Проект"
+
+#: ../functions.php:420
+msgid "Search Projects"
+msgstr "Поиск проекта"
+
+#: ../functions.php:422
+msgid "Parent Project"
+msgstr "Родительский проект"
+
+#: ../functions.php:423
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: ../functions.php:424
+msgid "Update Project"
+msgstr "Обновить проект"
+
+#: ../functions.php:425
+msgid "Add New Project"
+msgstr "Добавить новый проект"
+
+#: ../functions.php:446 ../functions.php:454
+msgid "Project Categories"
+msgstr "Рубрики проектов"
+
+#: ../functions.php:447
+msgid "Project Category"
+msgstr "Рубрика проекта"
+
+#: ../functions.php:448
+msgid "Search Project Categories"
+msgstr "Поиск рубрик проектов"
+
+#: ../functions.php:449
+msgid "All Project Categories"
+msgstr "Все рубрики"
+
+#: ../functions.php:450
+msgid "Parent Project Category"
+msgstr "Родительская рубрика"
+
+#: ../functions.php:451
+msgid "Edit Project Category"
+msgstr "Редактировать рубрику"
+
+#: ../functions.php:452
+msgid "Update Project Category"
+msgstr "Обновить рубрику"
+
+#: ../functions.php:453
+msgid "Add New Project Category"
+msgstr "Добавить новую рубрику"
+
+#: ../functions.php:576 ../functions.php:578
+msgid "Blog"
+msgstr "Блог"
+
+#: ../functions.php:585 ../functions.php:590
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../functions.php:642
+msgid "Today"
+msgstr "Сегодня"
+
+#: ../functions.php:644
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: ../functions.php:847 ../functions.php:862
+msgid "Sort Portfolio"
+msgstr "Сортировать"
+
+#: ../functions.php:849 ../functions.php:864
+msgid "All"
+msgstr "Все"
+
+#: ../header.php:20
+msgid "Feed"
+msgstr "Фид"
+
+#: ../index.php:13
+msgid "&laquo; Previous posts"
+msgstr "&laquo; Старые посты"
+
+#: ../index.php:14
+msgid "Next posts &raquo;"
+msgstr "Новые посты &raquo;"
+
+#: ../search.php:25
+msgid "Results for"
+msgstr "Результаты для"
+
+#: ../search.php:33
+msgid "Blog Post"
+msgstr "Пост"
+
+#: ../search.php:37
+msgid "Page"
+msgstr "Страница"
+
+#: ../search.php:46
+msgid "No results found"
+msgstr "Ничего не найдено"
+
+#: ../searchform.php:2
+msgid "To search type and hit enter"
+msgstr "Поиск"
+
+#: ../template-portfolio.php:15
+msgid "&laquo; Previous Entries"
+msgstr "&laquo; Старые проекты"
+
+#: ../template-portfolio.php:16
+msgid "Next Entries &raquo;"
+msgstr "Новые проекты &raquo;"
+
+#: ../admin/meta/meta-config.php:47 ../admin/meta/upload/field_upload.php:30
+msgid "Upload"
+msgstr "Загрузить"
+
+#: ../admin/meta/meta-config.php:48 ../admin/meta/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr "Удалить изображение"
+
+#: ../admin/meta/page-meta.php:11
+msgid "Page Header Settings"
+msgstr "Настройки шапки страницы"
+
+#: ../admin/meta/page-meta.php:18
+msgid "Page Header Image"
+msgstr "Изображение для фона шапки"
+
+#: ../admin/meta/page-meta.php:24
+msgid "Page Header Height"
+msgstr "Высота изображения для фона шапки"
+
+#: ../admin/meta/page-meta.php:30
+msgid "Page Header Title"
+msgstr "Заголовок шапки страницы"
+
+#: ../admin/meta/page-meta.php:36
+msgid "Page Header Subtitle"
+msgstr "Подзаголовок шапки страницы"
+
+#: ../admin/meta/page-meta.php:42
+msgid "Page Header ID"
+msgstr "ID страницы для шапки"
+
+#: ../admin/meta/project-meta.php:11
+msgid "Project Options"
+msgstr "Настройки проекта"
+
+#: ../admin/meta/project-meta.php:18
+msgid "Title Anchor"
+msgstr "Текст ссылки"
+
+#: ../admin/meta/project-meta.php:24
+msgid "Title Extra"
+msgstr "Дополнительный текст"
+
+#: ../admin/meta/project-meta.php:30
+msgid "Website Domain Name"
+msgstr "Ссылка на домен"
+
+#: ../admin/meta/project-meta.php:36
+msgid "Hide this project on the home page?"
+msgstr "Не показывать этот проект на главной странице?"
+
+#: ../admin/meta/upload/field_upload.php:30
+msgid "Select File"
+msgstr "Выбрать"
+
+#: ../admin/meta/upload/field_upload.php:30
+msgid "Choose a File"
+msgstr "Выбрать изображение"
+
+#~ msgid "Project Attributes"
+#~ msgstr "Атрибуты проектов"
+
+#~ msgid "Project Attribute"
+#~ msgstr "Атрибут проекта"
+
+#~ msgid "Search Project Attributes"
+#~ msgstr "Поиск атрибутов"
+
+#~ msgid "All Project Attributes"
+#~ msgstr "Все атрибуты"
+
+#~ msgid "Parent Project Attribute"
+#~ msgstr "Родительский атрибут"
+
+#~ msgid "Edit Project Attribute"
+#~ msgstr "Редактировать атрибут"
+
+#~ msgid "Update Project Attribute"
+#~ msgstr "Обновить атрибут"
+
+#~ msgid "Add New Project Attribute"
+#~ msgstr "Добавить новый атрибут"
+
+#~ msgid "New Project Attribute"
+#~ msgstr "Новый атрибут"
+
+#~ msgid "Page Header Link"
+#~ msgstr "Ссылка шапки страницы"
+
+#~ msgid "Website Favicon Link"
+#~ msgstr "Ссылка на favicon сайта"
+
+#~ msgid "Comments Feed"
+#~ msgstr "Фид комментариевв"
+
+#~ msgid "Portfolio Item"
+#~ msgstr "Проект"
+
+#~ msgid "Portfolio"
+#~ msgstr "Проекты"

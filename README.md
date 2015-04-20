@@ -1,6 +1,6 @@
 # yenbekbay.kz
 
-Wordpress theme for my old personal website.
+A Wordpress theme for my old personal website.
 
 # MIT License (MIT)
 
